@@ -3,6 +3,13 @@
 build
 __pycache__
 
+# AI assistant artifacts - must never be committed upstream
+.claude/
+CLAUDE.md
+.cursor/
+.cursorrules
+.copilot/
+
 # documentation artifacts
 _build/
 _images/
